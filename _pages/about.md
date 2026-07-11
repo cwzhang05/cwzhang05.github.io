@@ -4,14 +4,16 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
+subtitle: <p>M.S. in <a href='https://cds.nyu.edu/overview/'>Data Science</a> from <a href='https://www.nyu.edu/'>New York University</a></p><p>Email&#58; <a href="mailto:cz3781@nyu.edu">cz3781@nyu.edu </a></p>
+
+
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>New York University </p>
+    <p>New York, 10012</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
