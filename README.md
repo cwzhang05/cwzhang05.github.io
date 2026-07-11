@@ -283,9 +283,6 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
       - [GDPR Cookie Consent Dialog](#gdpr-cookie-consent-dialog)
   - [FAQ](#faq)
   - [Contributing](#contributing)
-    - [Maintainers](#maintainers)
-    - [All Contributors](#all-contributors)
-  - [Star History](#star-history)
   - [License](#license)
 
 <!--te-->
