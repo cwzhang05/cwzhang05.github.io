@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. 
 
 subtitle: <p>M.S. in <a href='https://cds.nyu.edu/overview/'>Data Science</a> from <a href='https://www.nyu.edu/'>New York University</a></p><p>Email&#58; <a href="mailto:cz3781@nyu.edu">cz3781@nyu.edu </a></p>
 
