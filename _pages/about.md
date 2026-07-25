@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am an incoming M.S. student in Data Science at New York University, with a background in statistics, computer science and finance. I received my B.S. in Applied Mathematics and Statistics, with a minor in Finance, from [Stony Brook University](https://www.stonybrook.edu/). 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research interests lie in natural language processing, computer vision, and recommendation systems. I am particularly interested in large language models, generative models, and multimodal models. More broadly, I enjoy exploring how statistical reasoning and programming can contribute to the development of reliable and interpretable intelligent systems. I hope my research can address a few problems in industry in the future.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The [CV](/cv/) page shows my academic resume, with the [Publications](/publications/) page showing my academic research achievements.
+Outside of the above, I like skiing, skating, swimming, playing the violin, and hiking. I hope to experience more fun beyond academics. Take a look at my [Gallery](/gallery/) for my "out of research" pieces.
