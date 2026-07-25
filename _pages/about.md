@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an incoming M.S. student in Data Science at New York University, with a background in statistics, computer science and finance. I received my B.S. in Applied Mathematics and Statistics, with a minor in Finance, from [Stony Brook University](https://www.stonybrook.edu/). 
+I am an incoming M.S. student in Data Science at [New York University](https://cds.nyu.edu/), with an interdisciplinary background in statistics, computer science, and finance. I received my B.S. in Applied Mathematics and Statistics, with a minor in Finance, from [Stony Brook University](https://www.stonybrook.edu/).
 
-My research interests lie in natural language processing, computer vision, and recommendation systems. I am particularly interested in large language models, generative models, and multimodal models. More broadly, I enjoy exploring how statistical reasoning and programming can contribute to the development of reliable and interpretable intelligent systems. I hope my research can address a few problems in industry in the future.
+My research interests span natural language processing, computer vision, and recommender systems, with a particular focus on large language models, generative modeling, and multimodal learning. More broadly, I am drawn to research that connects theoretical insight with meaningful real-world applications. Through my graduate studies, I hope to deepen my understanding of modern machine learning, contribute to academically rigorous research, and eventually develop methods that address important challenges in both scientific and industrial settings.
 
 The [CV](/cv/) page shows my academic resume, with the [Publications](/publications/) page showing my academic research achievements.
 Outside of the above, I like skiing, skating, swimming, playing the violin, and hiking. I hope to experience more fun beyond academics. Take a look at my [Gallery](/gallery/) for my "out of research" pieces.
