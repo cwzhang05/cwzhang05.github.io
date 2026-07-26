@@ -239,6 +239,17 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  
+  # 不生成 Teaching 页面和课程内容
+  - _pages/teaching.md
+  - _teachings/
+
+  # 不生成 People 页面
+  - _pages/profiles.md
+
+  # 不生成 Bookshelf 页面和书籍内容
+  - _pages/books.md
+  - _books/
 keep_files:
   - CNAME
   - .nojekyll
