@@ -15,8 +15,8 @@ toc:
 ---
 -->
 
-See below or click [CV](/assets/pdf/CV.pdf).
+See below or click [CV](/assets/pdf/CV_Chuwen Zhang.pdf).
 
-<object data="/assets/pdf/CV.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>Unable to display CV PDF file. <a href="/assets/pdf/CV.pdf">Download PDF</a> instead.</p>
+<object data="/assets/pdf/CV_Chuwen Zhang.pdf" type="application/pdf" width="100%" height="1000px">
+  <p>Unable to display CV PDF file. <a href="/assets/pdf/CV_Chuwen Zhang.pdf">Download PDF</a> instead.</p>
 </object>
