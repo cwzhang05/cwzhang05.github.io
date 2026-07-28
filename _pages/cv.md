@@ -1,26 +1,18 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/CV_Chuwen Zhang.pdf 
 ---
 
+{% assign cv_url = '/assets/pdf/CV_Chuwen Zhang.pdf' | relative_url | replace: ' ', '%20' %}
 
+See below or click <a href="{{ cv_url }}" target="_blank">CV</a>.
 
-<!--
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
----
--->
-
-<!--
-See below or click [CV](/assets/pdf/CV_Chuwen Zhang.pdf).
-
-<object data="/assets/pdf/CV_Chuwen Zhang.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>Unable to display CV PDF file. <a href="/assets/pdf/CV_Chuwen Zhang.pdf">Download PDF</a> instead.</p>
+<object data="{{ cv_url }}" type="application/pdf" width="100%" height="1000px">
+  <p>
+    Unable to display the CV PDF in your browser.
+    <a href="{{ cv_url }}" target="_blank">Open or download the PDF instead.</a>
+  </p>
 </object>
--->
